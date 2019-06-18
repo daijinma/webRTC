@@ -1,10 +1,12 @@
 {
   "answer.css": "styles.css",
   "answer.css.map": "styles.css.map",
-  "answer.js": "static/js/answer.ed411a707fa0b086d3ee.js",
-  "answer.js.map": "static/js/answer.ed411a707fa0b086d3ee.js.map",
+  "answer.js": "static/js/answer.a92e79e285d2dc60cac8.js",
+  "answer.js.map": "static/js/answer.a92e79e285d2dc60cac8.js.map",
   "index.css": "styles.css",
   "index.css.map": "styles.css.map",
-  "index.js": "static/js/index.ed411a707fa0b086d3ee.js",
-  "index.js.map": "static/js/index.ed411a707fa0b086d3ee.js.map"
+  "index.js": "static/js/index.a92e79e285d2dc60cac8.js",
+  "index.js.map": "static/js/index.a92e79e285d2dc60cac8.js.map",
+  "room.js": "static/js/room.a92e79e285d2dc60cac8.js",
+  "room.js.map": "static/js/room.a92e79e285d2dc60cac8.js.map"
 }
